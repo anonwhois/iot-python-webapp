@@ -1,5 +1,5 @@
 terraform {
   backend "gcs" {
-    bucket = "boom-baby-secure-bucket-tfstate"
+    bucket = "jb-demo-209016-secure-bucket-tfstate"
   }
 }
